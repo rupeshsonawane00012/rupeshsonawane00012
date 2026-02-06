@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**rupeshsonawane00012/rupeshsonawane00012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-## Hi, I'm Rupesh 👋
 
-Here are some ideas to get you started:
+Aspiring DevOps Engineer passionate about automation & cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Linux | Git | Docker
+- AWS | CI/CD (GitHub Actions)
+- Bash | YAML
+
+### 🚀 Projects
+- CI/CD Pipeline for Web App
+- Dockerized App Deployment on AWS
+
+### 📫 Contact
+- LinkedIn: <link>
+- Email: <email>
+
+
+
