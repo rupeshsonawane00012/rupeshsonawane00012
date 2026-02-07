@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupesh</h1>
+<h1 align="center">Hi there 👋, I'm Rupesh</h1>
 <h3 align="center">A passionate Aspiring AWS Devops from India</h3>
 
 - 🔭 I’m currently working on **AWS ec2 hosting static website on ec2 instance**
