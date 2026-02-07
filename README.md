@@ -9,13 +9,11 @@ Aspiring DevOps Engineer passionate about automation & cloud.
 - AWS | CI/CD (GitHub Actions)
 - Bash | YAML
 
-### 🚀 Projects
-- CI/CD Pipeline for Web App
-- Dockerized App Deployment on AWS
+### 
 
 ### 📫 Contact
-- LinkedIn: <link>
-- Email: <email>
+- LinkedIn: <[www.linkedin.com/in/rupesh-sonawane](https://www.linkedin.com/in/rupesh-sonawane12/)>
+- Email: <rupeshsonawane346@gmail.com>
 
 
 
