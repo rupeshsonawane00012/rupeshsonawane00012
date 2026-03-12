@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rupesh</h1>
 <h3 align="center">A passionate Aspiring AWS Devops engineer from India</h3>
 
-- 🔭 I’m currently working on **AWS ec2 hosting static website on ec2 instance**
+- 🔭 I’m currently working on **AWS and docker containrization tool **
 
 - 🌱 I’m currently learning **devops Tools**
 
