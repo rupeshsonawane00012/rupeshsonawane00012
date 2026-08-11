@@ -1,17 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Rupesh</h1>
-<h3 align="center">A passionate Aspiring AWS Devops engineer from India</h3>
+<h3 align="center"> AWS Devops engineer from India</h3>
 
-- 🔭 I’m currently working on **AWS and docker containrization tool **
+I'm a DevOps Engineer with hands-on experience designing CI/CD pipelines, containerizing 
+applications with Docker, orchestrating workloads on Kubernetes, and provisioning cloud 
+infrastructure on AWS using Terraform. I enjoy solving problems around automation, 
+scalability, and reliable deployments.
 
-- 🌱 I’m currently learning **devops Tools**
+- 🔭 **Currently working on:** AWS infrastructure automation & Docker containerization tooling
+- 🌱 **Currently learning:** Advanced Kubernetes (Helm, Service Mesh) & GitOps workflows
+- 🤝 **Open to collaborating on:** AWS cloud architecture & DevOps automation projects
+- 💬 **Ask me about:** AWS (EC2, VPC, IAM, S3), Docker, Kubernetes, Terraform, CI/CD pipelines
+- 📫 **Reach me at:** rupeshsonawane346@gmail.com
+- ⚡ **Fun fact:** I pick up new tools fast — if it's DevOps-related, I'm probably already tinkering with it
 
-- 🤝 I’m looking for help with **aws projects**
-
-- 💬 Ask me about **aws ec2,aws vpc,aws iam,aws s3**
-
-- 📫 How to reach me **rupeshsonawane346@gmail.com**
-
-- ⚡ Fun fact **i think i can learn anything fastly**
+---
+🛠️ **Tech Stack:** AWS · Docker · Kubernetes · Terraform · Jenkins · GitHub Actions · Prometheus · Grafana · Linux
 
 
 <h3 align="left">Connect with me:</h3>
